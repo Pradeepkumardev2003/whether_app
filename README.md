@@ -1,17 +1,17 @@
-<h1>Weather App</h1>
-This is a simple weather application that displays the current weather information for a specified location. It fetches real-time data from an external weather API and provides details such as temperature, humidity, and weather conditions.
-<br>
-<h1>Features</h1>
-<li>Search for weather information by city name</li>
-<li>Displays current temperature, humidity, and weather description</li>
-<li>User-friendly interface</li><br>
-<h1>Technologies Used</h1>
-<li>HTML, CSS, and JavaScript</li>
-<li>Weather API</li><br>
-<h1>How to Use</h1>
-<li>1. Open the app.</li>
-<li>2. Enter a city name in the search bar.</li>
-<li>3. View the weather details.</li><br>
-<h1>Live Demo</h1>
-Check out the live demo [here](https://pradeepkumardev2003.github.io/whether_app/).
+# Quote of the Day
 
+A simple web app that displays a motivational quote each day. It provides users with a new quote for inspiration every time they visit the page.
+
+## Features
+- Displays a new quote daily
+- User-friendly interface for easy navigation
+
+## Technologies Used
+- HTML, CSS, and JavaScript
+
+## How to Use
+1. Open the app.
+2. View the quote of the day.
+
+## Live Demo
+Check out the live demo [here](https://pradeepkumardev2003.github.io/infotrixs/).
