@@ -14,4 +14,4 @@ A simple web app that displays a motivational quote each day. It provides users 
 2. View the quote of the day.
 
 ## Live Demo
-Check out the live demo [here](https://pradeepkumardev2003.github.io/infotrixs/).
+Check out the live demo [here](https://pradeepkumardev2003.github.io/whether_app/).
